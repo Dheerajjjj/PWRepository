@@ -23,3 +23,5 @@ Using list :
 > **this is note second**
 
  we can add link also [PWSkills](https://pwskills.com/)
+
+ added new line to check commit in banches
